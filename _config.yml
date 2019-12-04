@@ -6,15 +6,16 @@ description: Daniel Hancock
 
 # User settings
 username: Daniel Hancock
-user_description: I have an interest in DIY and working on projects around the home or workplace
+user_description:
+  I have an interest in DIY and working on projects around the home or workplace
   and learning how to use them.
 user_title: Student
 email: pheoxy@gmail.com
 twitter_username: pheoxy
-github_username:  pheoxy
+github_username: pheoxy
 
 # Google-analytics
 google-analytics:
   id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ["package.json", "src", "node_modules"]
