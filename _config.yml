@@ -16,6 +16,6 @@ github_username: pheoxy
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-11523558-2"
 
 exclude: ["package.json", "src", "node_modules"]
